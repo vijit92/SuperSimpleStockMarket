@@ -15,7 +15,7 @@ Provide working source code that will :-
 
 1.	No database or GUI is required, all data need only be held in memory.
 
-2.	Formulas and data provided are simplified representations for the purpose of this exercise.
+2.	No prior knowledge of stock markets or trading is required – all formulas are provided below.
 
 ##### Global Beverage Corporation Exchange
 
