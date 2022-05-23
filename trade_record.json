@@ -1,0 +1,23 @@
+[
+    {
+        "stock_symbol": "GIN",
+        "quantity": 23,
+        "indicator": "BUY",
+        "traded_price": 12.0,
+        "trade_timestamp": "2022-05-23 22:59:00.981772"
+    },
+    {
+        "stock_symbol": "JOE",
+        "quantity": 12,
+        "indicator": "SELL",
+        "traded_price": 99.0,
+        "trade_timestamp": "2022-05-23 22:59:12.273330"
+    },
+    {
+        "stock_symbol": "TEST",
+        "quantity": 22,
+        "indicator": "BUY",
+        "traded_price": 90.0,
+        "trade_timestamp": "2022-05-23 22:59:57.430927"
+    }
+]
