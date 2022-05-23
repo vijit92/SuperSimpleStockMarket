@@ -43,7 +43,7 @@ Inside the project directory SuperSimpleStockMarket
 python main.py
 ```
 
-## Console window
+## Output window
 
 ```
 Enter the number of the Option you want:
